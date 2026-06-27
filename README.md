@@ -122,7 +122,7 @@ Displays the total expenditure by product.
 
 # 📊 Dashboard Preview
 
-![Dashboard](Screenshot%202026-06-27%20124357.png)
+![Dashboard](Pennybite_expenditure.dashboard.png)
 
 ---
 
